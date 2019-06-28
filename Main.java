@@ -9,6 +9,8 @@ public class Main {
 		rectangle1.toString();
 		
         // test jam h
+		
+		
 	}
 
 }
