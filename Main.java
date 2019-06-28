@@ -8,8 +8,6 @@ public class Main {
 		
 		rectangle1.toString();
 		
-		System.out.println(rectangle1);
-//flkiqhrmozhtim<h'zm
 	}
 
 }
