@@ -7,6 +7,8 @@ public class Main {
 		Rectangle rectangle1 = new Rectangle();
 		
 		rectangle1.toString();
+		
+		System.out.println(rectangle1);
 //flkiqhrmozhtim<h'zm
 	}
 
