@@ -8,8 +8,7 @@ public class Main {
 		
 		rectangle1.toString();
 		
-		//test 
-
+        // test jam h
 	}
 
 }
