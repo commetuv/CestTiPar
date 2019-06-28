@@ -1,8 +1,12 @@
+import javafx.scene.shape.Rectangle;
 
 public class Main {
 
 	public static void main(String[] args) {
-		//Mangez-moi le cul
+		
+		Rectangle rectangle1 = new Rectangle();
+		
+		rectangle1.toString();
 
 	}
 
