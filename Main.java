@@ -8,7 +8,7 @@ public class Main {
 		
 		rectangle1.toString();
 		
-		//new test
+		//New Test
 	}
 
 }
