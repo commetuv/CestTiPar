@@ -7,7 +7,7 @@ public class Main {
 		Rectangle rectangle1 = new Rectangle();
 		
 		rectangle1.toString();
-
+//flkiqhrmozhtim<h'zm
 	}
 
 }
