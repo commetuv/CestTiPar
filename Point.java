@@ -41,6 +41,7 @@ public class Point {
 
 	public String toString() {
 		//renvoie une chaine de caractères avec la distance demandé
+		int r = 3;
 		return "la distance est : (" + x1 + "," + y1+ ") est : " + this.distance()+ " bananes";
 	}
 }
