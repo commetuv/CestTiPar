@@ -1,5 +1,5 @@
 import javafx.scene.shape.Rectangle;
-
+//vwks:hig:rh
 public class Main {
 
 	public static void main(String[] args) {
