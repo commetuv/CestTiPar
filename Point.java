@@ -19,8 +19,11 @@ public class Point {
 	public double distance() {
 		// calcule de la distance entre l'origine du repère et un point (x,y) donné
 		return Math.sqrt(Math.pow(this.x1, 2) + (Math.pow(this.y1, 2)));
+	}
 	
-
+	public double distance(Point p ) {
+		// calcule de la distance entre l'origine du repère et un point (x,y) donné
+		return Math.sqrt(Math.pow(this.x1-p.x1 , 2) + (Math.pow(this.y1-p.y1, 2)));
 	}
 
 	public int getX() {
